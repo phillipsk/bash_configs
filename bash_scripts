@@ -1,0 +1,17 @@
+#!/bin/bash
+# Basic function
+
+print_something () {
+cat $1 >> ~/ssh a function
+}
+print_something
+
+
+find /Users/kevinphillips/Movies/test -iname *.java -exec sh -c 'javac -bash -bash.txt' '{}' +
+
+# grep -rni " main\(" .
+
+Line 14
+# a1=$HOME && a2="\bash_configs"
+# a1+=a2
+# echo $a1

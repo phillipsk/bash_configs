@@ -1,2 +1,0 @@
-find /Users/kevinphillips/Movies/test -iname *.java -exec sh -c 'javac -bash -bash.txt' '{}' +
-grep -rni " main\(" .
